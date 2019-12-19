@@ -18,3 +18,9 @@ res.write  res.end
 7.http根据不同的url不同响应
 
 8.node中的js
+
+9.require 加载与导出 exports
+
+10.ip和端口号
+  IP定位计算机
+  端口号定位具体某一应用
