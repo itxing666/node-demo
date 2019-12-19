@@ -11,3 +11,10 @@
 error为null时成功， data.toString()为数据
 
 5.http服务 http模块
+
+6.http服务 响应
+res.write  res.end
+
+7.http根据不同的url不同响应
+
+8.node中的js
