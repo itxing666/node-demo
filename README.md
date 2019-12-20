@@ -24,3 +24,9 @@ res.write  res.end
 10.ip和端口号
   IP定位计算机
   端口号定位具体某一应用
+
+11.http Content-Type
+
+12.结合fs发送文件中的数据  不同资源对应不同的Content-Type
+
+当代码以 （  [ ` 开头时前面加上分号
